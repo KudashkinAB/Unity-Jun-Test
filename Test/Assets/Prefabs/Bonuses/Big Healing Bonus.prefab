@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5765244341844405499
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3944465008153338454, guid: c8b934b76d2e0904e832ac21461bce91,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3944465009012992835, guid: c8b934b76d2e0904e832ac21461bce91,
+        type: 3}
+      propertyPath: healAmount
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3944465009012992836, guid: c8b934b76d2e0904e832ac21461bce91,
+        type: 3}
+      propertyPath: _longitudinalMovementSpeed
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3944465009012992838, guid: c8b934b76d2e0904e832ac21461bce91,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3944465009012992838, guid: c8b934b76d2e0904e832ac21461bce91,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3944465009012992838, guid: c8b934b76d2e0904e832ac21461bce91,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3944465009012992838, guid: c8b934b76d2e0904e832ac21461bce91,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3944465009012992838, guid: c8b934b76d2e0904e832ac21461bce91,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3944465009012992838, guid: c8b934b76d2e0904e832ac21461bce91,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3944465009012992838, guid: c8b934b76d2e0904e832ac21461bce91,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3944465009012992838, guid: c8b934b76d2e0904e832ac21461bce91,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3944465009012992838, guid: c8b934b76d2e0904e832ac21461bce91,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3944465009012992838, guid: c8b934b76d2e0904e832ac21461bce91,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3944465009012992838, guid: c8b934b76d2e0904e832ac21461bce91,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3944465009012992839, guid: c8b934b76d2e0904e832ac21461bce91,
+        type: 3}
+      propertyPath: m_Name
+      value: Big Healing Bonus
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c8b934b76d2e0904e832ac21461bce91, type: 3}
